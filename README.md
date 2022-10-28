@@ -13,8 +13,8 @@ To apply data science toolkit and machine learning in order to accurately predic
 Explore the data in order to obtain more insight from the data.
 
 ## Program Structure
-Week 1. Introduction.
-Week 2. Exploratory Data Analysis (EDA).
-Week 3. Interactive Visual Analytics and Dashboard.
-Week 4. Predictive Analysis (Classification).
-Week 5. Present Your Data-Driven Insights.
+Week 1. Introduction./n
+Week 2. Exploratory Data Analysis (EDA)./n
+Week 3. Interactive Visual Analytics and Dashboard./n
+Week 4. Predictive Analysis (Classification)./n
+Week 5. Present Your Data-Driven Insights./n
