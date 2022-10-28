@@ -11,3 +11,10 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 ## Objective
 To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
 Explore the data in order to obtain more insight from the data.
+
+## Program Structure
+Week 1. Introduction
+Week 2. Exploratory Data Analysis (EDA)
+Week 3. Interactive Visual Analytics and Dashboard
+Week 4. Predictive Analysis (Classification)
+Week 5. Present Your Data-Driven Insights
