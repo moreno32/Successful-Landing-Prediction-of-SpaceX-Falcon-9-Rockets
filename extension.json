@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Successful Landing Prediction of SpaceX Falcon 9 Rockets",
+    "description": "In this capstone project, we aim to predict the success of landing for SpaceX Falcon 9 rockets, as a crucial factor that determines the cost of each launch.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Successful-Landing-Prediction-of-SpaceX-Falcon-9-Rockets.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
